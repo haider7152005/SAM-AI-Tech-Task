@@ -17,7 +17,7 @@ A task management web application that allows users to add, complete, and delete
 
 ### Task 4 - Music Player
 
-A web-based music player that allows users to play, pause, and switch between multiple audio tracks.
+A web-based music player developed using HTML, CSS, and JavaScript that allows users to play, pause, and navigate between multiple audio tracks.
 
 ## Technologies Used
 
